@@ -1,0 +1,109 @@
+body{
+    background-color: #f7fdfd;
+    padding: 25px;
+    border-style:ridge;
+    border-color:rgb(247, 247, 247);
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 10%;
+    border-radius: 15px;
+}
+
+h1 {
+    color:red;
+    margin: 20px;
+}
+.icon1{
+    display: inline-block;
+}
+.icon2{
+    display: inline-block;
+    padding-left: 10px;
+}
+.icon3{
+    display: inline-block;
+    padding-left: 10px;
+}
+.icon4{
+    display: inline-block;
+    padding-left: 10px;
+}
+h1,p {
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    color: black;
+    margin-top: 20px;
+    font-size: small;
+}
+
+.inline{
+    display: inline-block;
+    width: unset;
+    margin: 10px;
+    
+}
+
+.name {
+    width: 50%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.email {
+    width: 50%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.password {
+    width: 50%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.checkbox-container{
+    display: inline-block;
+    padding-right: 150px;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 14px;
+}
+input[type="checkbox"] {
+    margin-right: 10px;
+    border-color: red;
+}
+
+.terms, .privacy {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: red;
+    color: #ddd;
+    width: 150px;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: inline-block;
+}
+.signin-btn{
+    background-color:white;
+    color: red;
+    width: 150px;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    border-color: red;
+    display: inline-block;
+}
