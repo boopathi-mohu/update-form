@@ -7,6 +7,7 @@ body{
     margin-left: 20%;
     margin-top: 10%;
     border-radius: 15px;
+    padding-right: 300px;
 }
 
 h1 {
@@ -71,7 +72,7 @@ p{
 }
 .checkbox-container{
     display: inline-block;
-    padding-right: 150px;
+    padding-right: 10px;
     align-items: center;
     margin: 10px 0;
     font-size: 14px;
@@ -89,7 +90,7 @@ input[type="checkbox"] {
 .signup-btn{
     background-color: red;
     color: #ddd;
-    width: 150px;
+    width: 120px;
     margin: 10px 0;
     padding: 10px;
     border: 1px solid #ddd;
@@ -99,7 +100,7 @@ input[type="checkbox"] {
 .signin-btn{
     background-color:white;
     color: red;
-    width: 150px;
+    width: 130px;
     margin: 10px 0;
     padding: 10px;
     border: 1px solid #ddd;
